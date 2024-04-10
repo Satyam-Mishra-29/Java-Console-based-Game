@@ -14,6 +14,8 @@ I also used all the OOPS Concepts such as encapsulation the hiding the user data
 
 So, are you ready to roll the dice and paint your destiny in a kaleidoscope of colors? Step into the world of Perfect Predictor and let the adventure begin!
 
+Note : Use Content File to run the project
+
 
 
 
